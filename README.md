@@ -5,7 +5,7 @@ Logged in administrator can add posts to MongoDB.
 Posts are fetched from API in blog page.
 
 ## Table of contents
-* [Partners](#partners]
+* [Partners](#partners)
 * [Status](#status)
 * [Technologies](#technologies)
 * [License](#license)
