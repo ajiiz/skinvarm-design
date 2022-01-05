@@ -13,8 +13,8 @@ Posts are fetched from API in blog page.
 
 # Parners
 #### Design was made in cooperation with my best and one of a kind friend Adam
-* [github](https://github.com/toniezlydeveloper)
-* [instagram](https://www.instagram.com/dmt_b0i/)
+* [Github](https://github.com/toniezlydeveloper)
+* [Instagram](https://www.instagram.com/dmt_b0i/)
 
 ## Status
 #### Draft version avaible at: [skinvarm-live](https://www.figma.com/file/0TmGIiyamylNrQq84oXgje/Skin-Care-Platform?node-id=0%3A1)
