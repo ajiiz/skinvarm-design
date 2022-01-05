@@ -12,7 +12,7 @@ Posts are fetched from API in blog page.
 * [Contact](#contact)
 
 # Parners
-#### Design my best and one of a kind friend Adam
+#### Design was made in cooperation with my best and one of a kind friend Adam
 * [github](https://github.com/toniezlydeveloper)
 * [instagram](https://www.instagram.com/dmt_b0i/)
 
