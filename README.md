@@ -1,9 +1,5 @@
 # skinvarm - skin care platform desing
 
-*pw.ajiiz* is a blog app made in MERN stack. 
-Logged in administrator can add posts to MongoDB.
-Posts are fetched from API in blog page.
-
 ## Table of contents
 * [Partners](#partners)
 * [Status](#status)
